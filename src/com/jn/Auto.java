@@ -9,6 +9,7 @@ public class Auto extends Car {
 		this.boatload=boatload;
 		this.manned=manned;
 		number = allnumber;
+		//helloword
 	}
 
 
